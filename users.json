@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Daniel",
+    "email": "danielramos@acidtango.com",
+    "password": "gatitos",
+    "age": 28
+  },
+  {
+    "name": "Daniel",
+    "email": "danielramos1@acidtango.com",
+    "password": "gatitos",
+    "age": 28
+  },
+  {
+    "id": "1a8b7892-9439-41f8-8085-f77acac12127",
+    "name": "Daniel",
+    "email": "danielramos2@acidtango.com",
+    "password": "gatitos",
+    "age": 28
+  },
+  {
+    "id": "b988309e-3f48-415e-81a6-97b064bd154f",
+    "name": "Daniel",
+    "email": "danielramos3@acidtango.com",
+    "password": "gatitos",
+    "age": 28
+  },
+  {
+    "id": "38028d64-c7bf-43ef-93fa-7a935079ec07",
+    "name": "Daniel",
+    "email": "pepe@gmail.com",
+    "password": "gatitos",
+    "age": 28
+  },
+  {
+    "id": "0974c3e0-d72d-439e-b59d-85c3e510ddaa",
+    "name": "Daniel",
+    "email": "pepee@gmail.com",
+    "password": "gatitos",
+    "age": 28
+  },
+  {
+    "id": "49523600-cb00-4f32-a141-7558ccfafff8",
+    "name": "Daniel",
+    "email": "pepepepepepe@acidtango.com",
+    "password": "gatitos",
+    "age": 28
+  }
+]
